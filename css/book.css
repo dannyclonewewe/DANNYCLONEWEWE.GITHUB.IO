@@ -378,7 +378,7 @@ img {
   width: 12rem;
   height: 100%;
   z-index: 500;
-  background-color: #f7f8f9;
+  background-color: #81b2f5;
   transition: transform 0.2s; }
   .book-sidebar.show {
     transform: translateX(0); }
